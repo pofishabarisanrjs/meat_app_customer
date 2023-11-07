@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HYFI Food</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">6tGTRrPsWFFkhsh8XTPBHu5K6ccUeATxSBZxl</string>
+</resources>

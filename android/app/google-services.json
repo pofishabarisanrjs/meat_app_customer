@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704181185969",
+    "project_id": "hyfimeatapp-6c42c",
+    "storage_bucket": "hyfimeatapp-6c42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704181185969:android:17bf79c3392ff9ebbaa190",
+        "android_client_info": {
+          "package_name": "com.hyfimeatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWsGLdGEs2Bjvr8G3YZnRT-Kpa9brqiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
